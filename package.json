@@ -1,5 +1,5 @@
 {
-  "name": "api-node-express",
+  "name": "curso-api-express",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
